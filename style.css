@@ -107,6 +107,12 @@ body {
     left: 1005px;
 }
 
+.panel4{
+    position: absolute;
+    top: 81px;
+    left: 1004px;
+}
+
 .panel1 {
     height: 100%;
     width: 531px;
@@ -124,6 +130,29 @@ body {
 	border-width: 8px 0px 0px 0px;
 /*	border-color: cadetblue;*/
 	font-size: 12px;
+    margin-top: -103px;
+}
+
+.footercontact {
+    height:90px; 
+/*    background-color: dimgray;
+    color: white;*/
+    text-align: center;
+    border-style: solid;
+    border-width: 8px 0px 0px 0px;
+/*  border-color: cadetblue;*/
+    font-size: 12px;
+}
+
+.footerport {
+    height:90px; 
+/*    background-color: dimgray;
+    color: white;*/
+    text-align: center;
+    border-style: solid;
+    border-width: 8px 0px 0px 0px;
+/*  border-color: cadetblue;*/
+    font-size: 12px;
 }
 
 .panel-default {
@@ -131,6 +160,32 @@ body {
     top: 26px;
     right: 0px;
     left: 112px;*/
+}
+
+.panel3 {
+    width: 52%;
+    position: relative;
+    top: 0;
+    left: 38px;
+    margin-bottom: 130px;
+}
+
+.caption {
+    position: relative;
+    top: -58px;
+    left: 19px;
+}
+
+.container{
+    width: 700px;
+    margin: 0;
+}
+
+.panel5{
+    position: absolute;
+    top: 81px;
+    left: 1011px;
+    width: 221px;
 }
 
 @media only screen and (max-width: 980px) {
