@@ -172,8 +172,12 @@ body {
 
 .caption {
     position: relative;
+    text-align: center;
     top: -58px;
-    left: 19px;
+    left: 5px;
+    color: white;
+    width: 294px;
+    background-color: #e95420;
 }
 
 .container{
